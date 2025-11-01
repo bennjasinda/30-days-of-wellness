@@ -25,9 +25,9 @@ private val DarkColorScheme = darkColorScheme(
 )
 
 private val LightColorScheme = lightColorScheme(
-    primary = androidx.compose.ui.graphics.Color(0xFF4CAF50), // Vert primaire
-    secondary = androidx.compose.ui.graphics.Color(0xFF8BC34A), // Vert secondaire
-    tertiary = androidx.compose.ui.graphics.Color(0xFFCDDC39), // Vert tertiaire
+    primary = androidx.compose.ui.graphics.Color(0xFF4CAF50), 
+    secondary = androidx.compose.ui.graphics.Color(0xFF8BC34A), 
+    tertiary = androidx.compose.ui.graphics.Color(0xFFCDDC39),
     background = androidx.compose.ui.graphics.Color(0xFFFFFFFF),
     surface = androidx.compose.ui.graphics.Color(0xFFF5F5F5),
     onPrimary = androidx.compose.ui.graphics.Color(0xFFFFFFFF),
