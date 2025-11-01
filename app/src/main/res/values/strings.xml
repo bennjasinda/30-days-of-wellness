@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">30_Days_Of_Wellness</string>
+
+    <string name="day_1_title">Passez 15 minutes dehors</string>
+    <string name="day_1_description">Prenez une pause dans la nature. Une courte promenade ou simplement vous asseoir dans un parc peut améliorer votre humeur et réduire le stress.</string>
+
+    <string name="day_2_title">Écoutez un podcast inspirant</string>
+    <string name="day_2_description">Trouvez un podcast sur le développement personnel, la méditation ou la créativité. Laissez les mots vous nourrir l’esprit.</string>
+
+    <string name="day_3_title">Méditez pendant 3 minutes</string>
+    <string name="day_3_description">Asseyez-vous tranquillement, fermez les yeux et concentrez-vous sur votre respiration. Laissez les pensées passer sans vous y attacher.</string>
+
+    <string name="day_4_title">Regardez un coucher de soleil</string>
+    <string name="day_4_description">Prenez le temps d’observer les couleurs changeantes du ciel. C’est un rappel doux de la beauté éphémère du moment présent.</string>
+
+    <string name="day_5_title">Lisez quelques pages d’un livre</string>
+    <string name="day_5_description">Plongez dans un roman, un essai ou un recueil de poésie. Lire nourrit l’imagination et calme l’esprit.</string>
+
+    <string name="day_6_title">Buvez une tasse de thé en pleine conscience</string>
+    <string name="day_6_description">Sentez la chaleur de la tasse, respirez l’arôme, goûtez lentement. Soyez pleinement présent dans ce moment simple.</string>
+
+    <string name="day_7_title">Pratiquez quelques postures de yoga</string>
+    <string name="day_7_description">Même 10 minutes de yoga doux peuvent détendre votre corps et recentrer votre esprit. Étirez, respirez, ressentez.</string>
+
+    <string name="day_8_title">Contemplez une montagne ou un horizon</string>
+    <string name="day_8_description">Que ce soit en photo ou en vrai, observez l’immensité. Cela remet les choses en perspective et apaise l’âme.</string>
+
+    <string name="day_9_title">Écoutez de la musique apaisante</string>
+    <string name="day_9_description">Choisissez une mélodie douce, instrumentale ou naturelle. Laissez-la vous envelopper comme une couverture sonore.</string>
+
+    <string name="day_10_title">Souriez à quelqu’un</string>
+    <string name="day_10_description">Un sourire sincère peut illuminer la journée de quelqu’un… y compris la vôtre. La gentillesse est contagieuse.</string>
+
+    <string name="day_11_title">Écrivez trois choses pour lesquelles vous êtes reconnaissant·e</string>
+    <string name="day_11_description">La gratitude transforme ce que nous avons en suffisance. Notez ce qui vous rend heureux·se aujourd’hui, aussi petit soit-il.</string>
+
+    <string name="day_12_title">Prenez un café lentement</string>
+    <string name="day_12_description">Pas en travaillant, pas en marchant. Asseyez-vous, savourez chaque gorgée. Ce moment est à vous.</string>
+
+    <string name="day_13_title">Observez un oiseau</string>
+    <string name="day_13_description">Regardez-le voler, chanter ou se poser. Il ne se soucie pas de demain. Il vit, simplement.</string>
+
+    <string name="day_14_title">Écoutez la pluie</string>
+    <string name="day_14_description">Si elle tombe, ouvrez une fenêtre ou écoutez un enregistrement. Le son de la pluie est une berceuse naturelle.</string>
+
+    <string name="day_15_title">Marchez pieds nus dans l’herbe</string>
+    <string name="day_15_description">Connectez-vous à la terre. Cette pratique, appelée « grounding », peut réduire le stress et améliorer le sommeil.</string>
+
+    <string name="day_16_title">Asseyez-vous sur une plage (ou imaginez-en une)</string>
+    <string name="day_16_description">Écoutez les vagues, sentez le sable. Même en imagination, ce lieu évoque paix et liberté.</string>
+
+    <string name="day_17_title">Contemplez la lune</string>
+    <string name="day_17_description">Que ce soit pleine ou croissante, la lune nous rappelle le rythme naturel des cycles. Respirez avec elle.</string>
+
+    <string name="day_18_title">Câlinez un animal</string>
+    <string name="day_18_description">Un chien, un chat, ou même un souvenir doux d’un animal aimé. Le contact avec les animaux libère de l’ocytocine, l’hormone du bonheur.</string>
+
+    <string name="day_19_title">Faites une sieste de 20 minutes</string>
+    <string name="day_19_description">Un petit somme peut recharger votre cerveau sans vous laisser groggy. Réveillez-vous plus clair·e et plus calme.</string>
+
+    <string name="day_20_title">Admirez un arbre</string>
+    <string name="day_20_description">Observez ses racines, son tronc, ses branches. Il pousse lentement, résiste aux tempêtes, et offre de l’ombre. Soyez comme lui.</string>
+
+    <string name="day_21_title">Sentez le vent sur votre visage</string>
+    <string name="day_21_description">Le vent est invisible, mais vous le ressentez. Il vous rappelle que certaines forces puissantes ne se voient pas.</string>
+
+    <string name="day_22_title">Regardez les nuages défiler</string>
+    <string name="day_22_description">Allongez-vous et laissez votre imagination voir des formes dans les nuages. C’est un exercice d’enfance qui apaise encore.</string>
+
+    <string name="day_23_title">Contemplez les étoiles</string>
+    <string name="day_23_description">Le ciel nocturne nous rappelle notre petitesse… et notre connexion à l’univers. Vous faites partie de quelque chose de grand.</string>
+
+    <string name="day_24_title">Offrez une fleur à quelqu’un</string>
+    <string name="day_24_description">Une seule fleur peut illuminer une pièce… ou une journée. La générosité n’a pas besoin d’être grande pour être puissante.</string>
+
+    <string name="day_25_title">Buvez un grand verre d’eau</string>
+    <string name="day_25_description">L’hydratation influence votre énergie, votre concentration et votre humeur. Offrez à votre corps ce dont il a besoin.</string>
+
+    <string name="day_26_title">Allumez une bougie</string>
+    <string name="day_26_description">Observez la flamme. Elle vacille, mais tient bon. Comme vous. Restez présent·e avec cette petite lumière.</string>
+
+    <string name="day_27_title">Marchez sans but</string>
+    <string name="day_27_description">Pas de destination, pas de GPS. Juste marcher. Laissez vos pas vous guider, pas votre esprit.</string>
+
+    <string name="day_28_title">Respirez profondément 5 fois</string>
+    <string name="day_28_description">Inspirez lentement par le nez, expirez par la bouche. Chaque souffle est une ancre dans le moment présent.</string>
+
+    <string name="day_29_title">Écrivez une lettre de gratitude (même non envoyée)</string>
+    <string name="day_29_description">Remerciez quelqu’un qui a marqué votre vie. Vous n’avez pas besoin de l’envoyer — l’acte d’écrire suffit à transformer votre cœur.</string>
+
+    <string name="day_30_title">Félicitez-vous pour ces 30 jours</string>
+    <string name="day_30_description">Vous avez pris soin de vous, jour après jour. C’est un acte d’amour. Continuez, à votre rythme. Vous le valez.</string>
+</resources>
