@@ -6,8 +6,4 @@ Application Android en Jetpack Compose inspirée du codelab officiel d'Android D
 - 📱 Interface Material Design 3
 - 🖼️ Images locales avec cartes extensibles
 
-## Captures d'écran
-*(Optionnel : ajoutez plus tard des images)*
 
-## Licence
-Ce projet est sous licence Apache 2.0.
